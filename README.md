@@ -5,8 +5,8 @@ I've built a **CPU renderer from scratch** and I'm currently working on a **GPU 
 
 ### GitHub Stats
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alex-sidor&show_icons=true&theme=gruvbox" alt="github stats"></img>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-sidor&layout=compact&theme=gruvbox" alt="top languages"></img>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alex-sidor&show_icons=true&theme=tokyonight" alt="github stats"></img>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-sidor&layout=compact&theme=tokyonight" alt="top languages"></img>
 </div>
 <br>
 <br>
