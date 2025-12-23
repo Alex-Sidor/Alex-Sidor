@@ -8,7 +8,7 @@ I'm also working on **robotics** focused projects such as my **indoor drone syst
 ### GitHub Stats
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-sidor&layout=compact&theme=tokyonight" alt="top languages"></img>
-  https://discord.c99.nl/widget/theme-2/863374060515098625.png
+  ![Discord](https://discord.c99.nl/widget/theme-2/863374060515098625.png)
 </div>
 <br>
 <br>
