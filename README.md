@@ -23,3 +23,5 @@ I'm also working on **robotics** focused projects such as my **indoor drone syst
 </div>
 
 ![Discord](https://discord.c99.nl/widget/theme-2/863374060515098625.png)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-sidor&layout=donut&theme=dark" />
