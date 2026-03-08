@@ -1,8 +1,36 @@
-## Alex
+# Alex
+self taught developer
 
-I'm a developer focused on **renderers, gamedev, and algorithms**. 
-I've built a **CPU renderer from scratch** and I'm currently working on a **GPU renderer**.
+## Interests
+* Game Engine Architecture
 
-I'm also working on **robotics** focused projects such as my **indoor drone system**
+* Computer Graphics.
 
-If it ever looks like im not active, its because I keep forgetting to commit my code
+* Digital Signal Processing
+
+* Low-Level Development
+
+* IoT
+
+* Networking
+
+* Machine learning
+
+* Control systems
+
+* Aerodynamics
+
+* Electronics / Robotics
+
+* Cad / Cam
+
+## Tech Stack (ordered by familiarity)
+
+* c++
+* python
+* c
+
+## Working on
+* learning ue5
+
+* Custom autonomous drones from scratch on esp32 + computer vision
