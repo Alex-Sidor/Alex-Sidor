@@ -1,6 +1,3 @@
-# Alex
-self taught developer
-
 ## Interests
 * Game Engine Architecture
 
