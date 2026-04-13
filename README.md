@@ -7,12 +7,11 @@
 ## Interests
 * Game Engine Architecture / Game Dev
 * Computer Graphics
-* IoT
 * Networking
 * Machine learning
 * Control systems
 * Aerodynamics
-* Electronics / Robotics
+* Embedded / Electronics / Robotics
 
 ## Working on
 * learning ue5
