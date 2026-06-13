@@ -1,61 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 230" width="100%" height="100%">
     <style>
       .bg { fill: #0d1117; rx: 6px; }
       .line { fill: none; stroke: #238636; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
-      .dot { fill: #238636; stroke: #0d1117; stroke-width: 2; }
-      .text { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 11px; }
+      .dot { fill: #238636; stroke: #0d1117; stroke-width: 1.5; }
+      .text { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 11px; }
       .title { fill: #c9d1d9; font-size: 14px; font-weight: 600; }
+      .axis { stroke: #30363d; stroke-width: 1; }
     </style>
-    <rect width="520" height="220" class="bg" />
-    <text x="20" y="30" class="text title">Monthly Commit Activity</text>
-    <polyline points="40,107.05882352941177 80,107.05882352941177 120,84.11764705882354 160,152.94117647058823 200,145.88235294117646 240,112.3529411764706 280,145.88235294117646 320,154.7058823529412 360,128.23529411764707 400,40.0 440,138.8235294117647 480,114.11764705882354" class="line" />
+    <rect width="540" height="230" class="bg" />
+    <text x="25" y="30" class="text title">Past 12 Months Activity</text>
     
-        <circle cx="40" cy="107.05882352941177" r="4" class="dot" />
-        <text x="40" y="190" text-anchor="middle" class="text">Jan</text>
-        <text x="40" y="97.05882352941177" text-anchor="middle" class="text" fill="#c9d1d9">30</text>
+    
+        <line x1="65" y1="170.0" x2="510" y2="170.0" stroke="#21262d" stroke-dasharray="4" />
+        <text x="55" y="174.0" text-anchor="end" class="text">0</text>
         
-        <circle cx="80" cy="107.05882352941177" r="4" class="dot" />
-        <text x="80" y="190" text-anchor="middle" class="text">Feb</text>
-        <text x="80" y="97.05882352941177" text-anchor="middle" class="text" fill="#c9d1d9">30</text>
+        <line x1="65" y1="110.0" x2="510" y2="110.0" stroke="#21262d" stroke-dasharray="4" />
+        <text x="55" y="114.0" text-anchor="end" class="text">50</text>
         
-        <circle cx="120" cy="84.11764705882354" r="4" class="dot" />
-        <text x="120" y="190" text-anchor="middle" class="text">Mar</text>
-        <text x="120" y="74.11764705882354" text-anchor="middle" class="text" fill="#c9d1d9">43</text>
+        <line x1="65" y1="50.0" x2="510" y2="50.0" stroke="#21262d" stroke-dasharray="4" />
+        <text x="55" y="54.0" text-anchor="end" class="text">100</text>
         
-        <circle cx="160" cy="152.94117647058823" r="4" class="dot" />
-        <text x="160" y="190" text-anchor="middle" class="text">Apr</text>
-        <text x="160" y="142.94117647058823" text-anchor="middle" class="text" fill="#c9d1d9">4</text>
+    
+    <line x1="65" y1="50" x2="65" y2="170" class="axis" />
+    
+    <path d="M 70 160.4 C 85 160.4, 95 166.4, 110 166.4 C 125 166.4, 135 148.4, 150 148.4 C 165 148.4, 175 88.39999999999999, 190 88.39999999999999 C 205 88.39999999999999, 215 155.6, 230 155.6 C 245 155.6, 255 138.8, 270 138.8 C 285 138.8, 295 134.0, 310 134.0 C 325 134.0, 335 134.0, 350 134.0 C 365 134.0, 375 118.4, 390 118.4 C 405 118.4, 415 165.2, 430 165.2 C 445 165.2, 455 160.4, 470 160.4 C 485 160.4, 495 136.4, 510 136.4" class="line" />
+    
+    
+        <circle cx="70" cy="160.4" r="3.5" class="dot" />
+        <text x="70" y="195" text-anchor="middle" class="text">Jul</text>
         
-        <circle cx="200" cy="145.88235294117646" r="4" class="dot" />
-        <text x="200" y="190" text-anchor="middle" class="text">May</text>
-        <text x="200" y="135.88235294117646" text-anchor="middle" class="text" fill="#c9d1d9">8</text>
+        <circle cx="110" cy="166.4" r="3.5" class="dot" />
+        <text x="110" y="195" text-anchor="middle" class="text">Aug</text>
         
-        <circle cx="240" cy="112.3529411764706" r="4" class="dot" />
-        <text x="240" y="190" text-anchor="middle" class="text">Jun</text>
-        <text x="240" y="102.3529411764706" text-anchor="middle" class="text" fill="#c9d1d9">27</text>
+        <circle cx="150" cy="148.4" r="3.5" class="dot" />
+        <text x="150" y="195" text-anchor="middle" class="text">Sep</text>
         
-        <circle cx="280" cy="145.88235294117646" r="4" class="dot" />
-        <text x="280" y="190" text-anchor="middle" class="text">Jul</text>
-        <text x="280" y="135.88235294117646" text-anchor="middle" class="text" fill="#c9d1d9">8</text>
+        <circle cx="190" cy="88.39999999999999" r="3.5" class="dot" />
+        <text x="190" y="195" text-anchor="middle" class="text">Oct</text>
         
-        <circle cx="320" cy="154.7058823529412" r="4" class="dot" />
-        <text x="320" y="190" text-anchor="middle" class="text">Aug</text>
-        <text x="320" y="144.7058823529412" text-anchor="middle" class="text" fill="#c9d1d9">3</text>
+        <circle cx="230" cy="155.6" r="3.5" class="dot" />
+        <text x="230" y="195" text-anchor="middle" class="text">Nov</text>
         
-        <circle cx="360" cy="128.23529411764707" r="4" class="dot" />
-        <text x="360" y="190" text-anchor="middle" class="text">Sep</text>
-        <text x="360" y="118.23529411764707" text-anchor="middle" class="text" fill="#c9d1d9">18</text>
+        <circle cx="270" cy="138.8" r="3.5" class="dot" />
+        <text x="270" y="195" text-anchor="middle" class="text">Dec</text>
         
-        <circle cx="400" cy="40.0" r="4" class="dot" />
-        <text x="400" y="190" text-anchor="middle" class="text">Oct</text>
-        <text x="400" y="30.0" text-anchor="middle" class="text" fill="#c9d1d9">68</text>
+        <circle cx="310" cy="134.0" r="3.5" class="dot" />
+        <text x="310" y="195" text-anchor="middle" class="text">Jan</text>
         
-        <circle cx="440" cy="138.8235294117647" r="4" class="dot" />
-        <text x="440" y="190" text-anchor="middle" class="text">Nov</text>
-        <text x="440" y="128.8235294117647" text-anchor="middle" class="text" fill="#c9d1d9">12</text>
+        <circle cx="350" cy="134.0" r="3.5" class="dot" />
+        <text x="350" y="195" text-anchor="middle" class="text">Feb</text>
         
-        <circle cx="480" cy="114.11764705882354" r="4" class="dot" />
-        <text x="480" y="190" text-anchor="middle" class="text">Dec</text>
-        <text x="480" y="104.11764705882354" text-anchor="middle" class="text" fill="#c9d1d9">26</text>
+        <circle cx="390" cy="118.4" r="3.5" class="dot" />
+        <text x="390" y="195" text-anchor="middle" class="text">Mar</text>
+        
+        <circle cx="430" cy="165.2" r="3.5" class="dot" />
+        <text x="430" y="195" text-anchor="middle" class="text">Apr</text>
+        
+        <circle cx="470" cy="160.4" r="3.5" class="dot" />
+        <text x="470" y="195" text-anchor="middle" class="text">May</text>
+        
+        <circle cx="510" cy="136.4" r="3.5" class="dot" />
+        <text x="510" y="195" text-anchor="middle" class="text">Jun</text>
         
   </svg>
