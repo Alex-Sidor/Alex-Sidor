@@ -17,3 +17,5 @@
 ## Working on
 * learning ue5
 * Autonomous drones from scratch with esp32 + computer vision
+
+![Monthly Commits](./monthly-activity.svg)
