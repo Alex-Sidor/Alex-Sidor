@@ -108,8 +108,8 @@ def main():
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 230" width="100%" height="100%">
     <style>
       .bg {{ fill: #0d1117; rx: 6px; }}
-      .line {{ fill: none; stroke: #238636; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }}
-      .dot {{ fill: #238636; stroke: #0d1117; stroke-width: 1.5; }}
+      .line {{ fill: none; stroke: #39d353; stroke-width: 3.5; stroke-linecap: round; stroke-linejoin: round; }}
+      .dot {{ fill: #39d353; stroke: #0d1117; stroke-width: 1.5; }}
       .text {{ fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 11px; }}
       .title {{ fill: #c9d1d9; font-size: 14px; font-weight: 600; }}
       .axis {{ stroke: #30363d; stroke-width: 1; }}
