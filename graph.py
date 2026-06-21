@@ -115,7 +115,6 @@ def main():
       .axis {{ stroke: #30363d; stroke-width: 1; }}
     </style>
     <rect width="540" height="230" class="bg" />
-    <text x="25" y="30" class="text title">Past 12 Months Activity</text>
     
     {grid_str}
     
