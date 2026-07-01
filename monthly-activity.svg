@@ -22,43 +22,43 @@
     
     <line x1="65" y1="50" x2="65" y2="170" class="axis" />
     
-    <path d="M 70 163.6 C 85 163.6, 95 167.6, 110 167.6 C 125 167.6, 135 155.6, 150 155.6 C 165 155.6, 175 115.6, 190 115.6 C 205 115.6, 215 160.4, 230 160.4 C 245 160.4, 255 149.2, 270 149.2 C 285 149.2, 295 146.0, 310 146.0 C 325 146.0, 335 146.0, 350 146.0 C 365 146.0, 375 135.6, 390 135.6 C 405 135.6, 415 166.8, 430 166.8 C 445 166.8, 455 163.6, 470 163.6 C 485 163.6, 495 86.0, 510 86.0" class="line" />
+    <path d="M 70 167.6 C 85 167.6, 95 155.6, 110 155.6 C 125 155.6, 135 115.6, 150 115.6 C 165 115.6, 175 160.4, 190 160.4 C 205 160.4, 215 149.2, 230 149.2 C 245 149.2, 255 146.0, 270 146.0 C 285 146.0, 295 146.0, 310 146.0 C 325 146.0, 335 135.6, 350 135.6 C 365 135.6, 375 166.8, 390 166.8 C 405 166.8, 415 163.6, 430 163.6 C 445 163.6, 455 80.39999999999999, 470 80.39999999999999 C 485 80.39999999999999, 495 163.6, 510 163.6" class="line" />
     
     
-        <circle cx="70" cy="163.6" r="3.5" class="dot" />
-        <text x="70" y="195" text-anchor="middle" class="text">Jul</text>
+        <circle cx="70" cy="167.6" r="3.5" class="dot" />
+        <text x="70" y="195" text-anchor="middle" class="text">Aug</text>
         
-        <circle cx="110" cy="167.6" r="3.5" class="dot" />
-        <text x="110" y="195" text-anchor="middle" class="text">Aug</text>
+        <circle cx="110" cy="155.6" r="3.5" class="dot" />
+        <text x="110" y="195" text-anchor="middle" class="text">Sep</text>
         
-        <circle cx="150" cy="155.6" r="3.5" class="dot" />
-        <text x="150" y="195" text-anchor="middle" class="text">Sep</text>
+        <circle cx="150" cy="115.6" r="3.5" class="dot" />
+        <text x="150" y="195" text-anchor="middle" class="text">Oct</text>
         
-        <circle cx="190" cy="115.6" r="3.5" class="dot" />
-        <text x="190" y="195" text-anchor="middle" class="text">Oct</text>
+        <circle cx="190" cy="160.4" r="3.5" class="dot" />
+        <text x="190" y="195" text-anchor="middle" class="text">Nov</text>
         
-        <circle cx="230" cy="160.4" r="3.5" class="dot" />
-        <text x="230" y="195" text-anchor="middle" class="text">Nov</text>
+        <circle cx="230" cy="149.2" r="3.5" class="dot" />
+        <text x="230" y="195" text-anchor="middle" class="text">Dec</text>
         
-        <circle cx="270" cy="149.2" r="3.5" class="dot" />
-        <text x="270" y="195" text-anchor="middle" class="text">Dec</text>
+        <circle cx="270" cy="146.0" r="3.5" class="dot" />
+        <text x="270" y="195" text-anchor="middle" class="text">Jan</text>
         
         <circle cx="310" cy="146.0" r="3.5" class="dot" />
-        <text x="310" y="195" text-anchor="middle" class="text">Jan</text>
+        <text x="310" y="195" text-anchor="middle" class="text">Feb</text>
         
-        <circle cx="350" cy="146.0" r="3.5" class="dot" />
-        <text x="350" y="195" text-anchor="middle" class="text">Feb</text>
+        <circle cx="350" cy="135.6" r="3.5" class="dot" />
+        <text x="350" y="195" text-anchor="middle" class="text">Mar</text>
         
-        <circle cx="390" cy="135.6" r="3.5" class="dot" />
-        <text x="390" y="195" text-anchor="middle" class="text">Mar</text>
+        <circle cx="390" cy="166.8" r="3.5" class="dot" />
+        <text x="390" y="195" text-anchor="middle" class="text">Apr</text>
         
-        <circle cx="430" cy="166.8" r="3.5" class="dot" />
-        <text x="430" y="195" text-anchor="middle" class="text">Apr</text>
+        <circle cx="430" cy="163.6" r="3.5" class="dot" />
+        <text x="430" y="195" text-anchor="middle" class="text">May</text>
         
-        <circle cx="470" cy="163.6" r="3.5" class="dot" />
-        <text x="470" y="195" text-anchor="middle" class="text">May</text>
+        <circle cx="470" cy="80.39999999999999" r="3.5" class="dot" />
+        <text x="470" y="195" text-anchor="middle" class="text">Jun</text>
         
-        <circle cx="510" cy="86.0" r="3.5" class="dot" />
-        <text x="510" y="195" text-anchor="middle" class="text">Jun</text>
+        <circle cx="510" cy="163.6" r="3.5" class="dot" />
+        <text x="510" y="195" text-anchor="middle" class="text">Jul</text>
         
   </svg>
