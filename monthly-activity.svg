@@ -14,51 +14,51 @@
         <text x="55" y="174.0" text-anchor="end" class="text">0</text>
         
         <line x1="65" y1="110.0" x2="510" y2="110.0" stroke="#21262d" stroke-dasharray="4" />
-        <text x="55" y="114.0" text-anchor="end" class="text">75</text>
+        <text x="55" y="114.0" text-anchor="end" class="text">200</text>
         
         <line x1="65" y1="50.0" x2="510" y2="50.0" stroke="#21262d" stroke-dasharray="4" />
-        <text x="55" y="54.0" text-anchor="end" class="text">150</text>
+        <text x="55" y="54.0" text-anchor="end" class="text">400</text>
         
     
     <line x1="65" y1="50" x2="65" y2="170" class="axis" />
     
-    <path d="M 70 115.6 C 85 115.6, 95 160.4, 110 160.4 C 125 160.4, 135 149.2, 150 149.2 C 165 149.2, 175 146.0, 190 146.0 C 205 146.0, 215 146.0, 230 146.0 C 245 146.0, 255 135.6, 270 135.6 C 285 135.6, 295 166.8, 310 166.8 C 325 166.8, 335 163.6, 350 163.6 C 365 163.6, 375 80.39999999999999, 390 80.39999999999999 C 405 80.39999999999999, 415 113.2, 430 113.2 C 445 113.2, 455 169.2, 470 169.2 C 485 169.2, 495 156.4, 510 156.4" class="line" />
+    <path d="M 70 149.6 C 85 149.6, 95 166.4, 110 166.4 C 125 166.4, 135 162.2, 150 162.2 C 165 162.2, 175 161.0, 190 161.0 C 205 161.0, 215 161.0, 230 161.0 C 245 161.0, 255 157.1, 270 157.1 C 285 157.1, 295 168.8, 310 168.8 C 325 168.8, 335 167.6, 350 167.6 C 365 167.6, 375 136.4, 390 136.4 C 405 136.4, 415 64.10000000000001, 430 64.10000000000001 C 445 64.10000000000001, 455 95.3, 470 95.3 C 485 95.3, 495 164.3, 510 164.3" class="line" />
     
     
-        <circle cx="70" cy="115.6" r="3.5" class="dot" />
+        <circle cx="70" cy="149.6" r="3.5" class="dot" />
         <text x="70" y="195" text-anchor="middle" class="text">Oct</text>
         
-        <circle cx="110" cy="160.4" r="3.5" class="dot" />
+        <circle cx="110" cy="166.4" r="3.5" class="dot" />
         <text x="110" y="195" text-anchor="middle" class="text">Nov</text>
         
-        <circle cx="150" cy="149.2" r="3.5" class="dot" />
+        <circle cx="150" cy="162.2" r="3.5" class="dot" />
         <text x="150" y="195" text-anchor="middle" class="text">Dec</text>
         
-        <circle cx="190" cy="146.0" r="3.5" class="dot" />
+        <circle cx="190" cy="161.0" r="3.5" class="dot" />
         <text x="190" y="195" text-anchor="middle" class="text">Jan</text>
         
-        <circle cx="230" cy="146.0" r="3.5" class="dot" />
+        <circle cx="230" cy="161.0" r="3.5" class="dot" />
         <text x="230" y="195" text-anchor="middle" class="text">Feb</text>
         
-        <circle cx="270" cy="135.6" r="3.5" class="dot" />
+        <circle cx="270" cy="157.1" r="3.5" class="dot" />
         <text x="270" y="195" text-anchor="middle" class="text">Mar</text>
         
-        <circle cx="310" cy="166.8" r="3.5" class="dot" />
+        <circle cx="310" cy="168.8" r="3.5" class="dot" />
         <text x="310" y="195" text-anchor="middle" class="text">Apr</text>
         
-        <circle cx="350" cy="163.6" r="3.5" class="dot" />
+        <circle cx="350" cy="167.6" r="3.5" class="dot" />
         <text x="350" y="195" text-anchor="middle" class="text">May</text>
         
-        <circle cx="390" cy="80.39999999999999" r="3.5" class="dot" />
+        <circle cx="390" cy="136.4" r="3.5" class="dot" />
         <text x="390" y="195" text-anchor="middle" class="text">Jun</text>
         
-        <circle cx="430" cy="113.2" r="3.5" class="dot" />
+        <circle cx="430" cy="64.10000000000001" r="3.5" class="dot" />
         <text x="430" y="195" text-anchor="middle" class="text">Jul</text>
         
-        <circle cx="470" cy="169.2" r="3.5" class="dot" />
+        <circle cx="470" cy="95.3" r="3.5" class="dot" />
         <text x="470" y="195" text-anchor="middle" class="text">Aug</text>
         
-        <circle cx="510" cy="156.4" r="3.5" class="dot" />
+        <circle cx="510" cy="164.3" r="3.5" class="dot" />
         <text x="510" y="195" text-anchor="middle" class="text">Sep</text>
         
   </svg>
