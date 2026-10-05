@@ -14,7 +14,7 @@
 * Embedded / Electronics / Robotics
 
 ## Working on
-* learning ue5
+* A video game
 * Autonomous drones from scratch with esp32 + computer vision
 
 ![Monthly Commits](./monthly-activity.svg)
